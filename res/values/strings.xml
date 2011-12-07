@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FoursquareAutoLoginActivity!</string>
+    <string name="app_name">FoursquareAutoLogin</string>
+    <string name="HomeLogin">Hier klicken für Checkin zu Hause</string>
+ 	<string name="error_name_missing">Please enter your name.</string>
+</resources>
